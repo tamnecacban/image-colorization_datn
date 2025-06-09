@@ -4,7 +4,7 @@
   <i>🔍 Model Pix2Pix cũ bị vỡ nét</i>
 </p>
 <p align="center">
-  <img src="1.jpg" width="700">
+  <img src="2.jpg" width="700">
   <br/>
   <i>🔍 Model Pix2Pix + Dropout đã build lại</i>
 </p>
@@ -12,4 +12,9 @@
   <img src="img2.jpg" width="700">
   <br/>
   <i>🔍 Model Pix2Pix cũ bị vỡ nét</i>
+</p>
+<p align="center">
+  <img src="1.jpg" width="700">
+  <br/>
+  <i>🔍 Model Pix2Pix + Dropout đã build lại</i>
 </p>
