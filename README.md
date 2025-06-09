@@ -1,6 +1,10 @@
-![Demo](img_128x128.jpg)
 <p align="center">
   <img src="img_128x128.jpg" width="400">
   <br/>
-  <i>🔍 Hình 1: Đây là phần chú thích cho ảnh</i>
+  <i>🔍 Model Pix2Pix cũ bị vỡ nét</i>
+</p>
+<p align="center">
+  <img src="img_128x128.jpg" width="400">
+  <br/>
+  <i>🔍 Model Pix2Pix cũ bị vỡ nét</i>
 </p>
